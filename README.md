@@ -10,15 +10,10 @@
 
 ---
 
-## Видео
 
-<div align="center">
+https://github.com/user-attachments/assets/2c46b149-28a6-4803-a272-c0fd8b767244
 
-<!-- видео по
 
-https://github.com/user-attachments/assets/bf657f0a-96f2-4483-bc80-91c68a75aef1
-
-зже -->
 
 <br />
 <br />
