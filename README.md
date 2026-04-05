@@ -14,7 +14,11 @@
 
 <div align="center">
 
-<!-- видео позже -->
+<!-- видео по
+
+https://github.com/user-attachments/assets/bf657f0a-96f2-4483-bc80-91c68a75aef1
+
+зже -->
 
 <br />
 <br />
