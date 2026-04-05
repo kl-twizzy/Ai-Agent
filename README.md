@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/user-attachments/assets/2c46b149-28a6-4803-a272-c0fd8b767244">
-  <img alt="Смотреть демо" src="https://img.shields.io/badge/Смотреть%20демо-181717?style=for-the-badge&logo=github&logoColor=white" />
+  
 </a>
 
 
