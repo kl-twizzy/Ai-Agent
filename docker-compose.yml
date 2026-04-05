@@ -1,0 +1,12 @@
+services:
+  browser-ai-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      BROWSER_HEADLESS: "true"
+    shm_size: "1gb"

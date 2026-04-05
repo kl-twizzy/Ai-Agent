@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+node_modules/
+frontend/node_modules/
+frontend/build/
+browser/__pycache__/
+dist/
+build/
+.git/
+.gitignore
